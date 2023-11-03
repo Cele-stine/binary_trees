@@ -4,7 +4,6 @@
  * binary_tree_preorder - A fuction that that trsansverses using pre-order.
  * @tree: a pointer to the root node of the tree to transverse.
  * @func: A pointer to a function to call each node.
- * @int: The value in the node.
  * Return: Nothing.
  */
 
